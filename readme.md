@@ -11,3 +11,4 @@ Install and enable this plugin.
 Then Go in External Images to Media Menu 
 Click on Process External Images. 
 
+For svg images please install Safe SVG plugin. 
